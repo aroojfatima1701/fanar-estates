@@ -1,0 +1,34 @@
+Fanar Estates - image and video credits
+All files are from Pexels (pexels.com) under the Pexels License: free for commercial use, attribution not required.
+Do not present the people or brands visible in these files as endorsing Fanar Estates.
+
+HERO VIDEOS
+hero-1-downtown-skyline  - https://www.pexels.com/video/skyline-of-dubai-at-sunrise-with-burj-khalifa-35972202/ (Denys Gromov)
+hero-2-palm-villas       - https://www.pexels.com/video/buildings-on-beach-near-dubai-10518489/ (Abid Ali)
+hero-3-living-room       - https://www.pexels.com/video/the-living-room-has-a-large-flat-screen-tv-and-a-pool-18531410/ (Abdullah | 4K)
+
+PROPERTIES
+villa-modern-minimal         - https://www.pexels.com/photo/34378030/
+villa-white-palms            - https://www.pexels.com/photo/10647324/ (Abid Ali)
+villa-sunset                 - https://www.pexels.com/photo/28586227/
+villa-dusk                   - https://www.pexels.com/photo/28054849/
+interior-luxury-living       - https://www.pexels.com/photo/23916869/
+interior-contemporary-living - https://www.pexels.com/photo/8135503/
+interior-chandelier          - https://www.pexels.com/photo/7166640/
+
+COMMUNITIES
+community-dubai-marina   - https://www.pexels.com/photo/28350360/
+community-palm-jumeirah  - https://www.pexels.com/photo/29212703/
+community-downtown       - https://www.pexels.com/photo/36339269/
+community-business-bay   - https://www.pexels.com/photo/17238022/
+
+OFF-PLAN
+offplan-construction     - https://www.pexels.com/photo/3367920/
+offplan-tower-view       - https://www.pexels.com/photo/27811085/
+
+FILE VERSIONS
+hero/*.mp4         1080p, no audio, web-optimised (desktop)
+hero/*-mobile.mp4  720p (phones)
+hero/*-poster.jpg  still frame shown while the video loads
+*.jpg              2000px wide (detail pages)   *-card.jpg 900px wide (cards)
+_originals/        untouched downloads
