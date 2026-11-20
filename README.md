@@ -68,3 +68,8 @@ Endpoints the front end expects: `GET /api/properties`, `GET /api/properties/{sl
 
 Replace placeholder contact details and RERA number in `src/lib/site.ts`, real listings with real DLD permit numbers,
 and remove the concept-project ribbon in `src/components/SiteShell.tsx`.
+
+
+---
+
+**Arooj Fatima** · Full-stack developer who designs · Portfolio: [aroojfatima-portfolio.netlify.app](https://aroojfatima-portfolio.netlify.app) · aroojfatimaofficial250@gmail.com
